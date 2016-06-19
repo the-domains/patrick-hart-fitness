@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Patrick Hart Fitness]]></title>
         <description><![CDATA[Patrick Hart Fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/patrick-hart-fitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 04:01:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 19 Jun 2016 07:44:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/patrick-hart-fitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/428e4bc7-e38b-4718-8944-91cf691d9c5f.jpg">]]></description>
+            <link>https://thegrid.ai/patrick-hart-fitness/aae88d59-485f-44a4-9cdf-280133a7f64d/index.html</link>
+            <guid isPermaLink="false">aae88d59-485f-44a4-9cdf-280133a7f64d</guid>
+            <pubDate>Sun, 19 Jun 2016 07:44:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c36f314c-8299-47aa-871e-d6ae2cdc46d2.jpg">]]></description>
-            <link>undefined6e62d3e7-8e36-4ed6-81c2-98909ed08acf/index.html</link>
+            <link>https://thegrid.ai/patrick-hart-fitness/6e62d3e7-8e36-4ed6-81c2-98909ed08acf/index.html</link>
             <guid isPermaLink="false">6e62d3e7-8e36-4ed6-81c2-98909ed08acf</guid>
             <pubDate>Sun, 19 Jun 2016 04:01:29 GMT</pubDate>
         </item>
